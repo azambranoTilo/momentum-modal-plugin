@@ -36,9 +36,11 @@
     }
   },
   "peerDependencies": {
-    "@inertiajs/vue3": "^1.0.0",
+    "@inertiajs/inertia": "^0.10.1",
+    "@inertiajs/vue2": "^1.0.0",
+    "@inertiajs/inertia-vue": "^0.7.2",
     "axios": "^1.2.0",
-    "vue": "^3.x"
+    "vue": "^2.7.8"
   },
   "devDependencies": {
     "@types/node": "^18.0.0",
